@@ -5,4 +5,4 @@ node_modules/
 *.log
 !example.log
 
-*.tmp
+*.tmpg
