@@ -1,0 +1,8 @@
+.env
+disk/
+node_modules/
+
+*.log
+!example.log
+
+*.tmp
